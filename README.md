@@ -10,8 +10,8 @@ Wit博客
 
 ### 最新
 
-* [小姐姐逼我睡觉觉，我感觉很幸福](http://witbolg.com/solo/xiamu)
-* [Java基础小知识点](http://witbolg.com/solo/java)
+* [小姐姐逼我睡觉觉，我感觉很幸福](http://witbolg.com/xiamu)
+* [Java基础小知识点](http://witbolg.com/java)
 
 
 
