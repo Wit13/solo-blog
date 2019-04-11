@@ -10,8 +10,8 @@ Wit博客
 
 ### 最新
 
-* [Docker篇](http://witbolg.com/docker)
-* [Java基础小知识点](http://witbolg.com/java)
+* [Docker篇](http://witbolg.com/solo/docker)
+* [Java基础小知识点](http://witbolg.com/solo/java)
 
 
 
