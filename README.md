@@ -2,7 +2,7 @@
 Wit13
 </h2>
 
-<h4 align="center">记录工作点点滴滴，分享知识</h4>
+<h4 align="center">记录日常点点滴滴，分享知识</h4>
 <p align="center"><a title="Wit13" target="_blank" href="https://github.com/Wit13/solo-blog"><img src="https://img.shields.io/github/last-commit/Wit13/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Wit13/solo-blog"><img src="https://img.shields.io/github/repo-size/Wit13/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,36 +10,36 @@ Wit13
 
 ### 最新
 
-* [JMeter 压测工具安装和使用](http://witbolg.com/solo/jmeter_01)
-* [Linux （CentOS 7.6）最小化安装和配置](http://witbolg.com/solo/linux_min1)
-* [Angular 环境搭建和安装 Visual Studio Code 开发工具](http://witbolg.com/solo/angular_01)
-* [Linux安装 Redis（六）](http://witbolg.com/solo/linux_06)
-* [SpringBoot 2.1.4版本 整合 Swagger 构建 API 文档](http://witbolg.com/solo/springboot_swagger_01)
-* [Spring Boot 整合 Redis](http://witbolg.com/solo/springboot_redis_01)
-* [解决：Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException: Command timed out after 5 millisecond(s)](http://witbolg.com/solo/redis_error_01)
-* [Git 安装和 Sourcetree 跳过注册的解决方法](http://witbolg.com/solo/git_sourcetree_01)
-* [Windows下安装 Redis 详细教程](http://witbolg.com/solo/window_redis_01)
-* [Java Web基础面试题整理](http://witbolg.com/solo/interview_03)
-* [Java面试题收集](http://witbolg.com/solo/interview_02)
-* [Spring Boot 整合 JPA 简单例子](http://witbolg.com/solo/springboot_data_01)
-* [解决：springcloud 配置 spring security登录验证问题，com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server ](http://witbolg.com/solo/springcloud_eurekaerror_01)
-* [Spring Cloud实战系列(一) 服务注册与发现Eureka](http://witbolg.com/solo/springcloud_eureka_01)
-* [Java开发工具下载与安装（二）](http://witbolg.com/solo/javanote_02)
-* [MySQL索引与查询优化](http://witbolg.com/solo/mysql_optimize_01)
-* [Idea安装Lombok](http://witbolg.com/solo/idea_01)
-* [阿里云服务部署solo个人博客](http://witbolg.com/solo/linux_solo_mtn)
-* [Linux升级Tomcat版本，tomcat8.5.34升级到tomcat9.0.16](http://witbolg.com/solo/linux_other_01)
-* [Linux安装 Nginx 1.14.0（五）](http://witbolg.com/solo/linux_05)
+* [JMeter 压测工具安装和使用](http://witbolg.com/jmeter_01)
+* [Linux （CentOS 7.6）最小化安装和配置](http://witbolg.com/linux_min1)
+* [Angular 环境搭建和安装 Visual Studio Code 开发工具](http://witbolg.com/angular_01)
+* [Linux安装 Redis（六）](http://witbolg.com/linux_06)
+* [SpringBoot 2.1.4版本 整合 Swagger 构建 API 文档](http://witbolg.com/springboot_swagger_01)
+* [Spring Boot 整合 Redis](http://witbolg.com/springboot_redis_01)
+* [解决：Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException: Command timed out after 5 millisecond(s)](http://witbolg.com/redis_error_01)
+* [Git 安装和 Sourcetree 跳过注册的解决方法](http://witbolg.com/git_sourcetree_01)
+* [Windows下安装 Redis 详细教程](http://witbolg.com/window_redis_01)
+* [Java Web基础面试题整理](http://witbolg.com/interview_03)
+* [Java面试题收集](http://witbolg.com/interview_02)
+* [Spring Boot 整合 JPA 简单例子](http://witbolg.com/springboot_data_01)
+* [解决：springcloud 配置 spring security登录验证问题，com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server ](http://witbolg.com/springcloud_eurekaerror_01)
+* [Spring Cloud实战系列(一) 服务注册与发现Eureka](http://witbolg.com/springcloud_eureka_01)
+* [Java开发工具下载与安装（二）](http://witbolg.com/javanote_02)
+* [MySQL索引与查询优化](http://witbolg.com/mysql_optimize_01)
+* [Idea安装Lombok](http://witbolg.com/idea_01)
+* [阿里云服务部署solo个人博客](http://witbolg.com/linux_solo_mtn)
+* [Linux升级Tomcat版本，tomcat8.5.34升级到tomcat9.0.16](http://witbolg.com/linux_other_01)
+* [Linux安装 Nginx 1.14.0（五）](http://witbolg.com/linux_05)
 
 ### 热门
 
-* [Linux 安装JDK1.8环境（一）](http://witbolg.com/solo/linux_01)
-* [Java安装JDK与配置（一）](http://witbolg.com/solo/javanote_01)
-* [Java基础小知识点](http://witbolg.com/solo/interview_01)
-* [Docker篇](http://witbolg.com/solo/docker)
-* [Linux安装Maven3.5.4（四）](http://witbolg.com/solo/linux_04)
-* [Linux安装配置Tomcat 8.5.34 快捷启动，关闭（二）](http://witbolg.com/solo/linux_02)
-* [Linux安装 MySql 5.7.25 超详细（三）](http://witbolg.com/solo/linux_03)
+* [Linux 安装JDK1.8环境（一）](http://witbolg.com/linux_01)
+* [Java安装JDK与配置（一）](http://witbolg.com/javanote_01)
+* [Java基础小知识点](http://witbolg.com/interview_01)
+* [Docker篇](http://witbolg.com/docker)
+* [Linux安装Maven3.5.4（四）](http://witbolg.com/linux_04)
+* [Linux安装配置Tomcat 8.5.34 快捷启动，关闭（二）](http://witbolg.com/linux_02)
+* [Linux安装 MySql 5.7.25 超详细（三）](http://witbolg.com/linux_03)
 
 
 
