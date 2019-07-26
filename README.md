@@ -41,11 +41,11 @@ Wit13
 * [Java开发工具下载与安装（二）](http://witbolg.com/javanote_02)
 * [Java安装JDK与配置（一）](http://witbolg.com/javanote_01)
 * [Java基础小知识点](http://witbolg.com/interview_01)
-* [Linux安装配置Tomcat 8.5.34 快捷启动，关闭（二）](http://witbolg.com/linux_02)
 * [MySQL索引与查询优化](http://witbolg.com/mysql_optimize_01)
+* [Linux安装配置Tomcat 8.5.34 快捷启动，关闭（二）](http://witbolg.com/linux_02)
 * [Linux安装 MySql 5.7.25 超详细（三）](http://witbolg.com/linux_03)
-* [Linux安装 Nginx 1.14.0（五）](http://witbolg.com/linux_05)
 * [Idea安装Lombok](http://witbolg.com/idea_01)
+* [Linux安装 Nginx 1.14.0（五）](http://witbolg.com/linux_05)
 
 
 
