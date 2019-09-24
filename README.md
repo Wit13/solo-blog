@@ -10,6 +10,7 @@ Wit13
 
 ### 最新
 
+* [Spring Data JPA 分页及SpringBoot其他方法实现分页](http://witbolg.com/springdata_page)
 * [Angular 8 实现回车和上下左右键，进行切换input焦点（@HostListener事件绑定/@HostBinding属性绑定）](http://witbolg.com/angular_hostListener)
 * [Eclipse常用快捷键](http://witbolg.com/eclipse_code)
 * [Spring Boot 打 war 包](http://witbolg.com/springboot_war)
@@ -29,7 +30,6 @@ Wit13
 * [Spring Boot 整合 Redis](http://witbolg.com/springboot_redis_01)
 * [解决：Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException: Command timed out after 5 millisecond(s)](http://witbolg.com/redis_error_01)
 * [Git 安装和 Sourcetree 跳过注册的解决方法](http://witbolg.com/git1)
-* [Windows下安装 Redis 详细教程](http://witbolg.com/window_redis_01)
 
 ### 热门
 
@@ -42,6 +42,7 @@ Wit13
 * [Linux安装Maven3.5.4（四）](http://witbolg.com/linux_04)
 * [Java开发工具下载与安装（二）](http://witbolg.com/javanote_02)
 * [Java安装JDK与配置（一）](http://witbolg.com/javanote_01)
+* [Windows下安装 Redis 详细教程](http://witbolg.com/window_redis_01)
 * [Linux安装配置Tomcat 8.5.34 快捷启动，关闭（二）](http://witbolg.com/linux_02)
 * [Linux安装 Nginx 1.14.0（五）](http://witbolg.com/linux_05)
 * [MySQL索引与查询优化](http://witbolg.com/mysql_01)
