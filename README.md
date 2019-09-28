@@ -10,7 +10,7 @@ Wit13
 
 ### 最新
 
-* [Spring Data JPA 分页及SpringBoot其他方法实现分页](http://witbolg.com/springdata_page)
+* [springboot + springdata jpa 分页其他方法实现分页](http://witbolg.com/springdata_page)
 * [Angular 8 实现回车和上下左右键，进行切换input焦点（@HostListener事件绑定/@HostBinding属性绑定）](http://witbolg.com/angular_hostListener)
 * [Eclipse常用快捷键](http://witbolg.com/eclipse_code)
 * [Spring Boot 打 war 包](http://witbolg.com/springboot_war)
