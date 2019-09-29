@@ -10,6 +10,7 @@ Wit13
 
 ### 最新
 
+* [springboot + springdata jpa 分页其他方法实现分页](http://witbolg.com/articles/2019/09/29/1569758881739.html)
 * [springboot + springdata jpa 分页其他方法实现分页](http://witbolg.com/springdata_page)
 * [Angular 8 实现回车和上下左右键，进行切换input焦点（@HostListener事件绑定/@HostBinding属性绑定）](http://witbolg.com/angular_hostListener)
 * [Eclipse常用快捷键](http://witbolg.com/eclipse_code)
@@ -29,13 +30,13 @@ Wit13
 * [SpringBoot 2.1.4版本 整合 Swagger 构建 API 文档](http://witbolg.com/springboot_swagger_01)
 * [Spring Boot 整合 Redis](http://witbolg.com/springboot_redis_01)
 * [解决：Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException: Command timed out after 5 millisecond(s)](http://witbolg.com/redis_error_01)
-* [Git 安装和 Sourcetree 跳过注册的解决方法](http://witbolg.com/git1)
 
 ### 热门
 
 * [阿里云服务部署solo个人博客](http://witbolg.com/linux_solo_mtn)
 * [Linux 安装JDK1.8环境（一）](http://witbolg.com/linux_01)
 * [Linux升级Tomcat版本，tomcat8.5.34升级到tomcat9.0.16](http://witbolg.com/linux_other_01)
+* [Git 安装和 Sourcetree 跳过注册的解决方法](http://witbolg.com/git1)
 * [Spring Cloud实战系列(一) 服务注册与发现Eureka](http://witbolg.com/springcloud02)
 * [解决：springcloud 配置 spring security登录验证问题，com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server ](http://witbolg.com/springcloud01)
 * [Idea安装Lombok](http://witbolg.com/idea_01)
