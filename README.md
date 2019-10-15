@@ -10,6 +10,7 @@ Wit13
 
 ### 最新
 
+* [Angular 实现公用组件弹框](http://witbolg.com/angular)
 * [我在 GitHub 上的开源项目](http://witbolg.com/my-github-repos)
 * [springboot + springdata jpa 分页其他方法实现分页](http://witbolg.com/articles/2019/09/29/1569758881739.html)
 * [springboot + springdata jpa 分页其他方法实现分页](http://witbolg.com/springdata_page)
@@ -29,7 +30,6 @@ Wit13
 * [Angular 环境搭建及VS Code 安装 （一）](http://witbolg.com/angular1)
 * [Linux安装 Redis（六）](http://witbolg.com/linux_06)
 * [SpringBoot 2.1.4版本 整合 Swagger 构建 API 文档](http://witbolg.com/springboot_swagger_01)
-* [Spring Boot 整合 Redis](http://witbolg.com/springboot_redis_01)
 
 ### 热门
 
@@ -46,6 +46,7 @@ Wit13
 * [Java安装JDK与配置（一）](http://witbolg.com/javanote_01)
 * [Windows下安装 Redis 详细教程](http://witbolg.com/window_redis_01)
 * [Linux安装配置Tomcat 8.5.34 快捷启动，关闭（二）](http://witbolg.com/linux_02)
+* [Spring Boot 整合 Redis](http://witbolg.com/springboot_redis_01)
 * [Linux安装 Nginx 1.14.0（五）](http://witbolg.com/linux_05)
 * [MySQL索引与查询优化](http://witbolg.com/mysql_01)
 * [Spring Boot 整合 JPA 简单例子](http://witbolg.com/springboot_data_01)
