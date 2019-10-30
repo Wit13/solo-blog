@@ -49,8 +49,8 @@ Wit13
 * [Spring Boot 整合 Redis](http://witbolg.com/springboot_redis_01)
 * [Linux安装 Nginx 1.14.0（五）](http://witbolg.com/linux_05)
 * [MySQL索引与查询优化](http://witbolg.com/mysql_01)
-* [Spring Boot 整合 JPA 简单例子](http://witbolg.com/springboot_data_01)
 * [Linux安装 MySql 5.7.25 超详细（三）](http://witbolg.com/linux_03)
+* [Spring Boot 整合 JPA 简单例子](http://witbolg.com/springboot_data_01)
 
 
 
